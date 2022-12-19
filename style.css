@@ -1,0 +1,19 @@
+:root {
+  font-size: 62.5%;
+}
+
+html {
+  font-size: 1.6rem;
+}
+
+/* resetting */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: antiquewhite;
+  background: black;
+}
