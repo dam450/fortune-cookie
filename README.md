@@ -1,7 +1,3 @@
-# fortune-cookie
-
-
-
 <h1 align="center">Biscoito da sorte</h1>
 
 <p align="center">
@@ -42,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes linguagens e recursos:
 - CSS
     - Animações CSS
 - Javascript
-    - Funções e eventListeners
+    - Funções, Callback e eventListeners
     - Manipulação da DOM
     - Biblioteca JS Math()
     - Arrays
