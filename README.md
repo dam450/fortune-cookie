@@ -21,7 +21,7 @@
 
 <p align="center"><br/>
   <a href="https://dam450.github.io/fortune-cookie/">
-    <img src="./.github/preview.jpg" />
+    <img src="./.github/preview.png" />
   </a>
 </p>
 
